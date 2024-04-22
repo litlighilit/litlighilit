@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+U+1f923 🤣
+U+1f923  
 -->
 
 ## About Me
@@ -46,13 +49,14 @@ Glad to have a technical communication with You!
 
 For example, I've obtained a habit of referring to official language spec reference,
 
-when met something unclear,
+when faced with something unclear,
 
 therefore, I may have known something that's confusing for many,
 
 while it has to be claimed that:
 
-> The more you know, the more you don't know
+> The more you know, the more you don't know.
+
 
 ## How to Reach Me
 email to [litlighilit@foxmail.com](mailto://litlighilit@foxmail.com)

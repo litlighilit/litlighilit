@@ -16,6 +16,8 @@ U+1f923 🤣
 U+1f923  
 -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=litlighilit&hide_rank=true&hide=stars" />
+
 ## About Me
 A interest-drived developer,
 probably (at least used to do) spending too much time seeking and testing features of languages...

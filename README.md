@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-U+1f923 🤣
-U+1f923  
+U+1f923  "\N{ROLLING ON THE FLOOR LAUGHING}"
+U+02000   "\N{EN QUAD}"
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=litlighilit&theme=github_dark&hide_rank=true&hide=stars" />
@@ -22,6 +22,7 @@ U+1f923  
 A interest-drived developer,
 probably (at least used to do) spending too much time seeking and testing features of languages...
 
+- I’m currently working on [nimpylib](https://github.com/litlighilit/nimpylib): Write Python in Nim! Compile as C/C++/ObjC or JS 🤣
 
 ## Langs & Work Domain
 While had explored quite a few langs, like

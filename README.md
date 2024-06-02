@@ -45,7 +45,7 @@ My involved fields includes:
 - And a little:
   - Image Process
   - GUI
-  - frondend & backend
+  - frontend & backend
 - etc...
 
 Glad to have a technical communication with You!

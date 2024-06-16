@@ -22,7 +22,7 @@ U+02000   "\N{EN QUAD}"
 A interest-drived developer,
 probably (at least used to do) spending too much time seeking and testing features of languages...
 
-- I’m currently working on [nimpylib](https://github.com/litlighilit/nimpylib): Write Python in Nim! Compile as C/C++/ObjC or JS 🤣
+- I’m currently working on [nimpylib](https://github.com/nimpylib/pylib): Write Python in Nim! Compile as C/C++/ObjC or JS 🤣
 
 ## Langs & Work Domain
 While had explored quite a few langs, like

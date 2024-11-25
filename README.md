@@ -19,7 +19,7 @@ U+02000   "\N{EN QUAD}"
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=litlighilit&theme=github_dark&hide_rank=true&hide=stars" />
 
 ## About Me
-A interest-driven developer,
+An interest-driven developer,
 probably (at least used to do) spending too much time seeking and testing features of languages...
 
 - I’m currently mainly working on [nimpylib](https://github.com/nimpylib/pylib): Write Python in Nim! Compile as C/C++/ObjC or JS 🤣

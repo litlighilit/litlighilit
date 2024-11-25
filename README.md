@@ -19,10 +19,10 @@ U+02000   "\N{EN QUAD}"
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=litlighilit&theme=github_dark&hide_rank=true&hide=stars" />
 
 ## About Me
-A interest-drived developer,
+A interest-driven developer,
 probably (at least used to do) spending too much time seeking and testing features of languages...
 
-- I’m currently working on [nimpylib](https://github.com/nimpylib/pylib): Write Python in Nim! Compile as C/C++/ObjC or JS 🤣
+- I’m currently mainly working on [nimpylib](https://github.com/nimpylib/pylib): Write Python in Nim! Compile as C/C++/ObjC or JS 🤣
 
 ## Langs & Work Domain
 While had explored quite a few langs, like
@@ -39,6 +39,7 @@ My involved fields includes:
 
 - Scienific Computing
 - System Utilities
+- POSIX development & Windows development
 - Automated Tools
 - Wrapper
 - Framework

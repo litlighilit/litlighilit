@@ -41,12 +41,14 @@ My involved fields includes:
 - System Utilities
 - POSIX development & Windows development
 - Automated Tools
+- Website Backends development
+- System operation and maintenance
 - Wrapper
 - Framework
 - And a little:
   - Image Process
   - GUI
-  - frontend & backend
+  - frontend
 - etc...
 
 Glad to have a technical communication with You!

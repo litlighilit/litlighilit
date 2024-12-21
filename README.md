@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 U+1f923  "\N{ROLLING ON THE FLOOR LAUGHING}"
+U+1f602  "\N{FACE WITH TEARS OF JOY}"
 U+02000   "\N{EN QUAD}"
 -->
 

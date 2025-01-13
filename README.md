@@ -24,6 +24,7 @@ An interest-driven developer,
 probably (at least used to do) spending too much time seeking and testing features of languages...
 
 - I’m currently mainly working on [nimpylib](https://github.com/nimpylib/pylib): Write Python in Nim! Compile as C/C++/ObjC or JS 🤣
+- Some of my repos are placed under [orgs](https://api.github.com/users/litlighilit/orgs)
 
 ## Langs & Work Domain
 While had explored quite a few langs, like
